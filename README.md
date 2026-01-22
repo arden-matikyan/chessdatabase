@@ -1,4 +1,3 @@
-# Part 2
 
 ## 3.4 Player-Centric Functionality
 
@@ -331,4 +330,12 @@ python3 graph_functions.py
 python3 player_functions.py
 python3 leaderboard_functions.py
 python3 game_functions.py
+
 python3 analytics_functions.py
+
+## Project Contributors
+Arden Matikyan - 116250909 
+Bavan Mooganahally Yadunath - 121301802 
+Shankar Narayan Saiprasad - 121128041 
+Sri Harsha Chayanulu Varahabhatla - 120478345 
+
